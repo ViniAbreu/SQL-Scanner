@@ -1,10 +1,7 @@
-log [9/6/2017][22:10:58] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:16:37] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:19:8] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:28:50] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:32:9] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:33:22] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:36:5] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:36:51] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:38:18] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
-log [9/6/2017][22:39:58] | Site: http://testphp.vulnweb.com/artists.php?artist=2 | Erro: mysql_fetch_array()
+       ____   ___  _       ____ 
+			/ ___| / _ \| |     / ___|  ___ __ _ _ __  _ __   ___ _ __ 
+			\___ \| | | | |     \___ \ / __/ _` | '_ \| '_ \ / _ \ '__|
+			 ___) | |_| | |___   ___) | (_| (_| | | | | | | |  __/ |   
+			|____/ \__\_\_____| |____/ \___\__,_|_| |_|_| |_|\___|_| 
+
+++++++ Log do SQL Scan ++++++
