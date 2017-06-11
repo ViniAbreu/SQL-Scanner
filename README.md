@@ -9,6 +9,10 @@ Script desenvolvido para encontrar vulnerabilidades SQL em sites
 
 1 - pip install requests
 
+### Requesitos
+
+Python3 ou superior instalado
+
 #### Créditos
 
 Lista de vulnerabilidades fornecida por [Luth1er](https://github.com/Luth1er/)
@@ -24,6 +28,10 @@ Script developed to find SQL vulnerabilities in websites
 #### Instructions
 
 1 - pip install requests
+
+#### Requirements
+
+Python 3 or higher installed
 
 #### Credits
 
@@ -41,6 +49,10 @@ Script desarrollado para encontrar vulnerabilidades de SQL en sitios web
 #### Instrucciones
 
 1 - pip install requests
+
+#### Requisitos
+
+Python 3 o superior instalado
 
 #### Créditos
 
