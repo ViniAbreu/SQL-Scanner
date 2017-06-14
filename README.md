@@ -9,7 +9,7 @@ Script desenvolvido para encontrar vulnerabilidades SQL em sites
 
 1 - pip install requests
 
-### Requesitos
+#### Requesitos
 
 Python3 ou superior instalado
 
