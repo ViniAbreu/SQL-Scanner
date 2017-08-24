@@ -38,7 +38,7 @@ about = '''
 					|   Coder: Sr. Biggs    |
 					|   Telegram: @SrBiggs  |
 					|      Version: 1.0     |
-					|   GitHub: BiggsCoder  |
+					|   GitHub: SrBiggs     |
 					+-----------------------+
 		'''
 print(default+banner)
